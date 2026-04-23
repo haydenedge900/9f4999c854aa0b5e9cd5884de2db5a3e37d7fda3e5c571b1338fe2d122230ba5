@@ -1,0 +1,12 @@
+{
+  "name": "queue-worker-8530d5",
+  "version": "1.0.0",
+  "description": "A queue-worker utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["queue-worker", "utility"],
+  "license": "MIT"
+}
